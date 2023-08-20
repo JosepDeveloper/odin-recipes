@@ -1,0 +1,30 @@
+body {
+  font-family: monospace;
+  background-color: #222;
+  color: white;
+  font-size: 20px;
+}
+
+h1 {
+  display: flex;
+  align-items: center;
+}
+
+h1 img {
+  height: auto;
+  width: 100px;
+}
+
+img {
+  height: auto;
+  width: 200px;
+}
+
+span {
+  font-style: italic;
+}
+
+li {
+  list-style-image: url('./images/svg/diamond.svg');
+  list-style-position: outside;
+}
