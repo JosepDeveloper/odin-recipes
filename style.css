@@ -28,3 +28,25 @@ li {
   list-style-image: url('./images/svg/diamond.svg');
   list-style-position: outside;
 }
+
+.container {
+  background-color: #00A86B;
+  border-radius: 0.5em;
+  width: 424px;
+  margin: 50px auto;
+  padding: 29px;
+}
+
+.center-element {
+  margin: 0 auto;
+}
+
+.paragraph {
+  text-align: justify;
+  margin: 24px 0px 29px;
+
+}
+
+.title {
+  margin: -22px 0 12px;
+}
